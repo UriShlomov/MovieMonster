@@ -1,6 +1,8 @@
 # MovieMonster
 A simple site about lovely Movies (-;
 
+for running - 'kinomonster.html'
+
 Nice for begginers in html/css studing.
 
 This is free and unencumbered software released into the public domain.
